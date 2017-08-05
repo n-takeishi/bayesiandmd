@@ -16,7 +16,7 @@ Run `demo.m` for a simple demonstration of Bayesian DMD.
 
 ## Reference
 
-Naoya Takeishi, Yoshinobu Kawahara, Yasuo Tabei, and Takehisa Yairi, "Bayesian Dynamic Mode Decomposition," in Proc. of the 26th Int'l Joint Conf. on Artificial Intelligence (IJCAI), 2017.
+Naoya Takeishi, Yoshinobu Kawahara, Yasuo Tabei, and Takehisa Yairi, "Bayesian Dynamic Mode Decomposition," in *Proc. of the 26th Int'l Joint Conf. on Artificial Intelligence (IJCAI)*, pp. 2814-2821, 2017.
 
 ## License
 
