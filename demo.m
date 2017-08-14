@@ -13,10 +13,10 @@ data = zeros(N, 2);
 for t=1:N, data(t,:) = lam_true.^(t-1); end
 data = data + randn(size(data))*5e-2;
 
-% Apply standard DMDs
+% Apply standard DMD (Algorithm 1 in our paper)
 [lam_sdmd] = sdmd(data(1:end-1,:).', data(2:end,:).', 2);
 
-% Apply Bayesian DMD
+% Apply Bayesian DMD (Algorithm 2 in our paper)
 option = struct(...
     'gibbsiter',      5000, ...
     'burnin',         1000, ...
