@@ -1,6 +1,6 @@
 # Bayesian Dynamic Mode Decomposition
 
-Bayesian extension of dynamic mode decomposition (DMD).
+Implementation of Bayesian dynamic mode decomposition (Bayesian DMD) by authors of the IJCAI paper (see below).
 
 ## Prerequisites
 
