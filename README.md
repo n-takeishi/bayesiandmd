@@ -5,6 +5,7 @@ Implementation of Bayesian dynamic mode decomposition (Bayesian DMD) by authors 
 ## Prerequisites
 
 - MATLAB 2015a or later
+- Statistics toolbox
 
 ## Demo Script
 
