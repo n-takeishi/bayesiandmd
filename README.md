@@ -13,7 +13,7 @@ Run `demo.m` for a simple demonstration of Bayesian DMD.
 
 ## Author
 
-*  **Naoya Takeishi** - [http://www.naoyatakeishi.com/](http://www.naoyatakeishi.com/)
+*  **Naoya Takeishi** - [https://ntake.jp/](https://ntake.jp/)
 
 ## Reference
 
